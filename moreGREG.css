@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Gajraj One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Blaka+Hollow&family=Gajraj+One&family=Julee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+
+/* NEW FONTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Geostar&display=swap');
+
+/* SCARY FONT , KIDDO!!! */
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+/* CYBER FONT */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+
+
+
+
+
+
+
+
+
+*{
+    text-shadow:magenta 3px 0 10px;
+}
+
+#future{
+    color:lime;
+    text-align: center;
+    font-size: 60pt;
+    font-family: "julee";
+    border-color: rgb(0, 255, 187);
+    border-style: dotted;
+    border-width: 10pt;
+
+}
+
+.use{
+    text-align: center;
+    color: rgb(255, 0, 8);
+    font-family: 'Geostar', cursive;
+    font-size: 55pt;
+    border-bottom-style: dashed;
+    border-color: mediumvioletred;
+    border-bottom-width: 9px;
+
+}
+
+.info_dump{
+    text-align: center;
+    color:lime;
+    font-size: 25pt;
+    font-family: 'Chewy', cursive;
+
+
+}
+
+.amex{
+    color:aqua;
+    font-family: 'Creepster', cursive;
+    text-shadow:white 3px 0 10px;
+
+
+}
+
+.cyber{
+    color:rgb(255, 0, 157);
+    text-shadow:rgb(158, 10, 244) 6px 0 10px;
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+#robinhood{
+    margin: auto;
+    display: flex;
+    justify-self: center;
+    height: 400px;
+    width: 800px;   
+}
+
+#origin_warp{
+    display: block;
+    width: 10px;
+    height: 10px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+/* ORIGINS CSS */
+
+#origin_video_header{
+    text-align: center;
+    color: rgb(80, 12, 12);
+    font-size: 55pt;
+    font-family: 'Creepster', cursive;
+
+}
+
+#playback{
+    margin: auto;
+    display: flex;
+    justify-self: center;
+    height: 500px;
+    width: 500px;
+}
+
+#og_warp{
+    display: block;
+    width: 10px;
+    height: 10px;
+    padding: 10px 10px 10px 10px;
+   
+}
